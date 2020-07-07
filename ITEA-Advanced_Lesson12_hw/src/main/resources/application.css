@@ -1,0 +1,12 @@
+.root {
+	-fx-background-color: #000;
+}
+
+ .text-area .content {
+	-fx-background-color: #FFF;
+}
+
+.text-field {
+	-fx-background-color: #878;
+	-fx-text-fill: #FFF;
+}
